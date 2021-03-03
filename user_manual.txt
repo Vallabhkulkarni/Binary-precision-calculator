@@ -1,0 +1,15 @@
+This is a binary precision calculator.
+
+This calculator can calculate large precision of digits.
+
+This calculator is able to handle opening and closing bracket.
+
+This calculator can handle addition,subtraction,multiplication,division,modulus,trignometric function.(sine,cosine & tangent )
+
+To use trignometric functions use
+
+S(value) ---- for sine function.
+
+C(value) ---- for cosine function.
+
+T(value) ---- for tangent function.

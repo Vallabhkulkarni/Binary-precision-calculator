@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1604856552 source:e:\binary precision calculator\infix.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1604856019 e:\binary precision calculator\function.h
+	<math.h>
+
+1604856304 source:e:\binary precision calculator\list.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1604856101 source:e:\binary precision calculator\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1604855685 source:e:\binary precision calculator\stack.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+
+1604854369 source:e:\binary precision calculator\token.c
+	<stdlib.h>
+	"function.h"
+
+1604856019 source:e:\binary precision calculator\fuctions.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"function.h"
+	<math.h>
+
